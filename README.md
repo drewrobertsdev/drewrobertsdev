@@ -66,14 +66,4 @@
 
 ---
 
-## 📫 Get in Touch
-
-- ✉️ [github@drewroberts.com](mailto:github@drewroberts.com)  
-- 🔗 GitHub profiles:  
-  - [tipoff](https://github.com/tipoff)  
-  - [drewroberts](https://github.com/drewroberts)  
-  - [roberts](https://github.com/roberts)  
-
----
-
 ✨ Building modern, scalable solutions with clean code and a crypto twist. Let's build something awesome!  
